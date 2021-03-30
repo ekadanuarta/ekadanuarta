@@ -6,11 +6,11 @@
 • Phyton
 
 ### Follow me
-instagram
+
 https://www.instagram.com/eka_danu_arta
 
-whatsapp
-wa.me/+6288221400832
+https://wa.me/+6288221400832
+
 
 <!--
 **ekadanuarta/ekadanuarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
