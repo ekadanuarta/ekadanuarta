@@ -1,5 +1,7 @@
 ### Hi I'm eka 👋 🤓
+🌱 I’m currently learning
 
+-  JavaScript
 
 
 
