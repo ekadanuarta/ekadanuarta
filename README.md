@@ -1,11 +1,11 @@
 ### Hi I'm eka gans 👋 🤓
 
 
-https://i.ibb.co/Qnj25SL/IMG-20210405-WA0416.jpg
 
 
 
-### Give me star 🌟
+
+### Plies Give me star 🌟
 
 
 
