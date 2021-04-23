@@ -24,13 +24,13 @@
 
 <img align = "right" alt = "GIF" height = "125px" src = "https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-## I'm Currently 📋🤓
+## I'm Currently Love Simeone 😗
 
-- Python
 
-- JavaScript
 
-- Php
+
+
+
 
 - Html
 
