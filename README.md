@@ -1,4 +1,4 @@
-##  Halo, saya EKA  <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px"> 
+##  Halo, I'm EKA  <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px"> 
 
 <p align = "center">
 
@@ -14,11 +14,15 @@
 
 <img align = "right" alt = "GIF" height = "125px" src = "https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-##  Saat ini saya sedang belajar:
+##  I'm currently 📋:
 
 - Python
 
 - Javascript
+
+- Html
+
+- Php
 
 <img align = "center" fit = "fill" alt = "GIF" src = "https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
