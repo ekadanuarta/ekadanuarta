@@ -1,4 +1,4 @@
-##  Halo, I'm EKA  <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px"> 
+##  Halo, I'm EKA 🤓  <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px"> 
 
 <p align = "center">
 
@@ -13,6 +13,8 @@
 </p>
 
 <img align = "right" alt = "GIF" height = "125px" src = "https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
+
+
 
 ##  I'm currently 📋:
 
