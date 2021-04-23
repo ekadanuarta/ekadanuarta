@@ -21,15 +21,15 @@
 
 <img align = "right" alt = "GIF" height = "125px" src = "https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
+## I'm Currently 📋🤓
 
+- Python
 
+-JavaScript
 
+- Php
 
-
-
-
-
-
+- Html
 
 <img align = "center" fit = "fill" alt = "GIF" src = "https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
