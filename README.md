@@ -14,7 +14,7 @@
 
 <img align = "right" alt = "GIF" height = "125px" src = "https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-:##Saat ini saya sedang belajar:
+##Saat ini saya sedang belajar:
 
 - Python
 
@@ -28,7 +28,7 @@
 
 
 
-<a href="https://wa.me/6288221400832" target="_blank"> <img src = "https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&log
+
 
 
 
