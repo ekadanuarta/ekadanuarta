@@ -11,6 +11,28 @@
       
     𝙃𝙀𝙃𝙀𝙃𝙀
 
+<p>
+
+<p align = "center">
+
+<a href="https://github.com/ekadanuarta">
+
+</p>
+
+<img align = "right" alt = "GIF" height = "125px" src = "https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
+
+## I'm currently 📋:
+
+-Python
+
+-Javascript
+
+-Html
+
+-Php
+
+<img align = "center" fit = "fill" alt = "GIF" src = "https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 
 
