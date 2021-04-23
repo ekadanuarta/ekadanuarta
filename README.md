@@ -9,7 +9,7 @@
 
 <img src="https://i.ibb.co/Qnj25SL/-20210405-WA0416.jpg" alt="ekadanuarta" width="300" />
       
-      HEHEHE
+    𝙃𝙀𝙃𝙀𝙃𝙀
 
 
 
@@ -30,13 +30,13 @@
 
 ## I'm currently 📋:
 
-- Python
+-Python
 
-- Javascript
+-Javascript
 
-- Html
+-Html
 
-- Php
+-Php
 
 <img align = "center" fit = "fill" alt = "GIF" src = "https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
