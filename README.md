@@ -9,7 +9,7 @@
 
 <img src="https://i.ibb.co/Qnj25SL/-20210405-WA0416.jpg" alt="ekadanuarta" width="300" />
       
- # HEHE
+# HEHE
 <div>
 <
 <
@@ -24,7 +24,7 @@
 
 <img align = "right" alt = "GIF" height = "125px" src = "https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-## I'm Currently Love Simeone 😗
+## I'm learning to love someone 😗
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-- Html
+
 
 <img align = "center" fit = "fill" alt = "GIF" src = "https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
