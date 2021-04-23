@@ -2,7 +2,7 @@
 
 <p align = "center">
 
-<img src = https: //i.ibb.co/fkXKKHH/dnsnew.jpg "alt =" 20210103-132024 "border =" 0 ">
+
 
 </p>
 
@@ -30,7 +30,7 @@
 
 <a href="https://wa.me/6288221400832" target="_blank"> <img src = "https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo = Whatsapp & logoColor = white "alt =" Whatsapp "> </a>
 
-! [ statistik github ] (https://github-readme-stats.vercel.app/api?username=denisputraa&show_icons=true&theme=radical)
+! [ statistik github ] (https://github-readme-stats.vercel.app/api?username=ekadanuarta&show_icons=true&theme=radical)
 
 ! [ github toplang ] (https://github-readme-stats.vercel.app/api/top-langs/?username=denisputraa&layout=compact&theme=nightowl)
 
