@@ -48,7 +48,7 @@
 
 
 
-## Follow me 🔥
+## Contact me 
 
 </p>
 
