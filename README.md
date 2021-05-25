@@ -24,7 +24,7 @@
 
 <img align = "right" alt = "GIF" height = "125px" src = "https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-## I'm learning to love someone 😗
+## I'm learning to love someone  
 
 
 
@@ -35,7 +35,7 @@
 
 <a href="https://github.com/ekadanuarta"><img title="hekelpro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekadanuarta&layout=compact&theme=nightowl"></a><br>
 
-<a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://komarev.com/ghpvc/?username=hekelpro&label=Views&color=blue&style=plastic"></a>
+<a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://komarev.com/ghpvc/?username=ekadanuarta&label=Views&color=blue&style=plastic"></a>
 
 <a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://img.shields.io/github/followers/ekadanuarta?label=follow&style=social"></a>
 
