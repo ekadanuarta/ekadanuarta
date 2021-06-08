@@ -24,7 +24,10 @@
 
 
 
-## I'm learning to love someone  
+📃I'm learning currently
+• JavaScript
+• Python
+• Html
 
 
 
