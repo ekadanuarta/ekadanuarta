@@ -1,4 +1,4 @@
-##  Halo, I'm EKA 🤓  <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px"> 
+##  Halo, I'm EKA  <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px"> 
 
 <p align = "center">
 
@@ -25,10 +25,11 @@
 
 
 📃I'm learning currently
+ ```bash
 • JavaScript
 • Python
 • Html
-
+```
 
 
 
