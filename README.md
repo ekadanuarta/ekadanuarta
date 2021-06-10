@@ -15,16 +15,9 @@
 
 
 
-</p>
 
 
 
-📃I'm learning currently
- ```bash
-• JavaScript
-• Python
-• Html
-```
 
 
 
@@ -75,11 +68,6 @@
 </p>
 
 
-<p align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekadanuarta&theme=onedark" /></a>
-
-</p>
 
 
 
