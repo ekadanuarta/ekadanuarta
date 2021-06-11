@@ -23,9 +23,6 @@
 
 <p align="center"><a href="https://github.com/ekadanuarta"><img src="https://avatars.githubusercontent.com/u/62897038?v=4" height='195' alt="ekadanuarta profile">
 
-<a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://github-readme-stats.vercel.app/api?username=ekadanuarta&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
-
-<a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekadanuarta&layout=compact&theme=nightowl"></a><br>
 
 <a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://komarev.com/ghpvc/?username=ekadanuarta&label=Views&color=blue&style=plastic"></a>
 
