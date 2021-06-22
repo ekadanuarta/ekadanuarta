@@ -28,6 +28,7 @@
 
 <a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://img.shields.io/github/followers/ekadanuarta?label=follow&style=social"></a>
 
+Eka Danu Arta 16 y.o
 </p><br>
 
 # i'm currently learning 📃
