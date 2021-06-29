@@ -28,7 +28,6 @@
 
 <a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://img.shields.io/github/followers/ekadanuarta?label=follow&style=social"></a>
 
-<a href="https://github.com/ekadanuarta/Api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ekadanuarta/Api?color=red&style=flat-square"></a>
 
 
 Eka Danu Arta 16 y.o
