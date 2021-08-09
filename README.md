@@ -29,7 +29,7 @@
 
 
 
-Eka Danu Arta 16 y.o
+Eka Danu Arta 17 y.o
 </p><br>
 
 # i'm currently learning 📃
