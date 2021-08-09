@@ -21,8 +21,7 @@
 
 
 
-<p align="center"><a href="https://github.com/ekadanuarta"><img src="https://avatars.githubusercontent.com/u/62897038?v=4" height='195' alt="ekadanuarta profile">
-
+<a href="https://ibb.co/1Q6V585"><img src="https://i.ibb.co/xLHv0J0/FB-IMG-16240318835053822.jpg" alt="FB-IMG-16240318835053822" border="0"></a>
 
 <a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://komarev.com/ghpvc/?username=ekadanuarta&label=Views&color=blue&style=plastic"></a>
 
