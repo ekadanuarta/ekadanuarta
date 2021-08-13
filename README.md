@@ -25,8 +25,6 @@
 
 <a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://komarev.com/ghpvc/?username=ekadanuarta&label=Views&color=blue&style=plastic"></a>
 
-<a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://img.shields.io/github/followers/ekadanuarta?label=follow&style=social"></a>
-
 
 
 Eka Danu Arta 17 y.o
