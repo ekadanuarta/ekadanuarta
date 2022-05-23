@@ -1,9 +1,11 @@
 <img src="https://media0.giphy.com/media/Wj7lNjMNDxSmc/200.webp?cid=ecf05e47gol7hyzftrdpoaar8lchrj2uzbzs0qoz3xgzv14o&rid=200.webp" width="60"> <em><b>Hello world </em>
 
-________
 
-<a href="https://ibb.co/q7cNzBf"><img src="https://i.ibb.co/q7cNzBf/IMG-20220520-WA0062.jpg" alt="IMG-20220520-WA0062" border="0"></a>________
+<p align="center">
 
+<a href="https://ibb.co/q7cNzBf"><img src="https://i.ibb.co/q7cNzBf/IMG-20220520-WA0062.jpg" alt="IMG-20220520-WA0062" border="0"></a>
+</p>
+  
 _______
   
 ### [`INTRO MY SELF`](https://ekagans02.herokuapp.com)
@@ -59,5 +61,7 @@ _____
 
 <a href="https://wa.me/994400295560" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
+  _____
   
+  <a href="https://github.com/ekadanuarta"><img src="https://github-readme-stats.vercel.app/api?username=ekadanuarta&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 
