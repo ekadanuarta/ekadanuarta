@@ -21,7 +21,7 @@
 
 
 
-<a href="https://ibb.co/1Q6V585"><img src="https://i.ibb.co/xLHv0J0/FB-IMG-16240318835053822.jpg" alt="FB-IMG-16240318835053822" border="0"></a>
+<a href="https://ibb.co/q7cNzBf"><img src="https://i.ibb.co/q7cNzBf/IMG-20220520-WA0062.jpg" alt="IMG-20220520-WA0062" border="0"></a>
 
 <a href="https://github.com/ekadanuarta"><img title="ekadanuarta" src="https://komarev.com/ghpvc/?username=ekadanuarta&label=Views&color=blue&style=plastic"></a>
 
