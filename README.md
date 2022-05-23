@@ -16,7 +16,7 @@ Intro =
 
 "Name": "Eka Danu Arta",
 
-"Status": "Student SMA MIFTAHUL - HUDA Grobogan",
+"Status": "Student SMK PEMBNAS Grobogan",
 
 "Address": "Grobogan, Jawa - Tengah, Indonesia",
 
