@@ -39,6 +39,10 @@ Intro =
    "- SkullCyberArmy Team"
   
    "- And My Friends"
+   
+   "- my parents ♡"
+   
+   "- my favorite girlfriend ♡"
 
 "- And My Partner"
 
